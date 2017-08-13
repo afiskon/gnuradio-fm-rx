@@ -1,4 +1,4 @@
-# gnu-radio-fm-rx
+# gnuradio-fm-rx
 
 GNU Radio FM Receiver.
 
